@@ -1,0 +1,2 @@
+C:\Users\Jager\source\repos\Producer Consumer\Debug\Producer Consumer.exe
+C:\Users\Jager\source\repos\Producer Consumer\Debug\Producer Consumer.pdb
